@@ -1,0 +1,28 @@
+{
+  "name": "digitalmagazine_project",
+  "version": "1.0.0",
+  "description": "SE project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshloll/DigitalMagazine_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joshloll/DigitalMagazine_Project/issues"
+  },
+  "homepage": "https://github.com/Joshloll/DigitalMagazine_Project#readme",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-draggable": "^4.5.0",
+    "react-pageflip": "^2.0.3",
+    "react-resizable": "^3.0.5",
+    "uuid": "^11.1.0"
+  }
+}
